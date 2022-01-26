@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Obi-Wan",
+    "email": "Obi-Wan.Kenobi@mil-republic.com"
+  },
+  {
+    "id": 2,
+    "name": "Anakin",
+    "email": "Anakin.Skywalker@mil-republic.com"
+  },
+  {
+    "id": 3,
+    "name": "Darth Vader",
+    "email": "vader@sithlords.com"
+  }
+]
